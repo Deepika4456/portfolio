@@ -73,7 +73,7 @@ function Hero() {
               </button>
             </a>
 
-            <a href="/Deepika_Resume.pdf" download>
+            <a href="/Deepika_Surisetty_Resume.pdf" download>
               <button className="border border-blue-500 hover:bg-blue-500 px-8 py-3 rounded-xl font-semibold transition">
                 Download Resume
               </button>
